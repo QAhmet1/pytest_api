@@ -1,0 +1,4 @@
+INFO     API_Test_Framework:test_todos.py:36 Filtering todos by status: completed=true
+INFO     API_Test_Framework:base_service.py:20 Sending GET request to: https://jsonplaceholder.typicode.com/todos?completed=true
+INFO     API_Test_Framework:base_service.py:32 Response Status Code: 200
+INFO     API_Test_Framework:test_todos.py:45 Verified 90 items are all completed.

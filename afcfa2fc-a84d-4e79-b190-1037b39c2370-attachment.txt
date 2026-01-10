@@ -1,0 +1,3 @@
+INFO     API_Test_Framework:base_service.py:20 Sending DELETE request to: https://jsonplaceholder.typicode.com/comments/1
+INFO     API_Test_Framework:base_service.py:32 Response Status Code: 200
+INFO     API_Test_Framework:test_comments.py:91 Comment 1 deleted successfully.

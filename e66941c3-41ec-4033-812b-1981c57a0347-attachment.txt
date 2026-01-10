@@ -1,0 +1,4 @@
+INFO     API_Test_Framework:test_users.py:32 --- Starting Test: Create User Flow ---
+INFO     API_Test_Framework:base_service.py:20 Sending POST request to: https://jsonplaceholder.typicode.com/users
+INFO     API_Test_Framework:base_service.py:32 Response Status Code: 201
+INFO     API_Test_Framework:test_users.py:38 User created successfully with ID: 11

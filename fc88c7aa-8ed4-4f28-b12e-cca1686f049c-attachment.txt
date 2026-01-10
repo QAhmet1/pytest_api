@@ -1,0 +1,2 @@
+
+[REQUEST] POST https://jsonplaceholder.typicode.com/photos

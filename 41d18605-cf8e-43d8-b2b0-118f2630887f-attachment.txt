@@ -1,0 +1,4 @@
+INFO     API_Test_Framework:test_albums.py:37 Filtering albums for user: 1
+INFO     API_Test_Framework:base_service.py:20 Sending GET request to: https://jsonplaceholder.typicode.com/albums?userId=1
+INFO     API_Test_Framework:base_service.py:32 Response Status Code: 200
+INFO     API_Test_Framework:test_albums.py:46 Successfully verified 10 albums for user 1

@@ -1,0 +1,3 @@
+INFO     API_Test_Framework:base_service.py:20 Sending POST request to: https://jsonplaceholder.typicode.com/posts
+INFO     API_Test_Framework:base_service.py:32 Response Status Code: 201
+INFO     API_Test_Framework:test_posts.py:72 Correctly received 201 for invalid user ID. NOTE: In real projects it returns 400

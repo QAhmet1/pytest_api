@@ -1,0 +1,3 @@
+INFO     API_Test_Framework:photo_service.py:20 Creating photo
+INFO     API_Test_Framework:base_service.py:20 Sending POST request to: https://jsonplaceholder.typicode.com/photos
+INFO     API_Test_Framework:base_service.py:32 Response Status Code: 201

@@ -1,0 +1,2 @@
+INFO     API_Test_Framework:base_service.py:20 Sending GET request to: https://jsonplaceholder.typicode.com/comments/5
+INFO     API_Test_Framework:base_service.py:32 Response Status Code: 200
