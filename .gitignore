@@ -1,0 +1,30 @@
+# --- Python Specific ---
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+
+# --- IDE Specific ---
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# --- Test Results & Reports ---
+allure-results/
+allure-report/
+.pytest_cache/
+htmlcov/
+.tox/
+*.html
+
+# --- Logs ---
+*.log
+api_tests.log
+
+# --- Environment & OS ---
+.env
+.DS_Store
+Thumbs.db
