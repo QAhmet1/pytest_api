@@ -2,12 +2,12 @@ name: API Regression Suite
 
 on:
   push:
-    branches: [ main ]
+    branches: [ main, master ]
   schedule:
     - cron: '0 6 * * *' # 07:00 Brussels (CET)
 
 permissions:
-  contents: write # Required to push the report to gh-pages branch
+  contents: write
 
 jobs:
   api-automation:
@@ -46,7 +46,7 @@ jobs:
           allure_history: allure-history
           keep_reports: 20
 
-      - name: Deploy to GitHub Pages
+      - name: Deploy Report to GitHub Pages
         if: always()
         uses: peaceiris/actions-gh-pages@v3
         with:
