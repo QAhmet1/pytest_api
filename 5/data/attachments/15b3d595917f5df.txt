@@ -1,2 +1,0 @@
-
-[REQUEST] PUT https://jsonplaceholder.typicode.com/comments/1

@@ -1,2 +1,0 @@
-
-[REQUEST] GET https://jsonplaceholder.typicode.com/albums/1

@@ -1,5 +1,0 @@
-INFO     API_Test_Framework:test_posts.py:55 Verify that requesting a non-existent post returns 404.
-INFO     API_Test_Framework:base_service.py:20 Sending GET request to: https://jsonplaceholder.typicode.com/posts/999
-INFO     API_Test_Framework:base_service.py:32 Response Status Code: 404
-ERROR    API_Test_Framework:base_service.py:36 Request failed with body: {}
-INFO     API_Test_Framework:test_posts.py:58 Correctly received 404 for invalid post ID.
