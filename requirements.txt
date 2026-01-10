@@ -1,0 +1,16 @@
+
+# HTTP requests for API interaction
+requests==2.31.0
+
+# Core testing framework
+pytest==7.4.3
+
+# For generating professional HTML test reports
+pytest-html==4.1.1
+
+# For advanced reporting with Allure (Optional but recommended)
+allure-pytest==2.13.2
+
+# For validating JSON response schemas (If we add schema testing)
+jsonschema==4.20.0
+allure-python-commons
