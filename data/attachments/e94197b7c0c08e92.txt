@@ -1,2 +1,0 @@
-2026-02-21 06:40:19,774 - API_Test_Framework - INFO - Sending POST request to: https://jsonplaceholder.typicode.com/todos
-2026-02-21 06:40:19,802 - API_Test_Framework - INFO - Response Status Code: 201
