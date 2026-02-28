@@ -1,3 +1,0 @@
-2026-02-27 06:53:33,220 - API_Test_Framework - INFO - Updating post 1 partially...
-2026-02-27 06:53:33,220 - API_Test_Framework - INFO - Sending PATCH request to: https://jsonplaceholder.typicode.com/posts/1
-2026-02-27 06:53:33,303 - API_Test_Framework - INFO - Response Status Code: 200

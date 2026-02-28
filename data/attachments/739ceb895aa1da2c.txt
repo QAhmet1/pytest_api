@@ -1,5 +1,0 @@
-2026-02-27 06:53:32,656 - API_Test_Framework - INFO - Verify that requesting a non-existent post returns 404.
-2026-02-27 06:53:32,657 - API_Test_Framework - INFO - Sending GET request to: https://jsonplaceholder.typicode.com/posts/999
-2026-02-27 06:53:32,897 - API_Test_Framework - INFO - Response Status Code: 404
-2026-02-27 06:53:32,897 - API_Test_Framework - ERROR - Request failed with body: {}
-2026-02-27 06:53:32,897 - API_Test_Framework - INFO - Correctly received 404 for invalid post ID.
