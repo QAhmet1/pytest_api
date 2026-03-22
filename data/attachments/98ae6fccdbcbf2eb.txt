@@ -1,0 +1,2 @@
+2026-03-22 06:51:21,946 - API_Test_Framework - INFO - Sending GET request to: https://jsonplaceholder.typicode.com/todos/4
+2026-03-22 06:51:22,096 - API_Test_Framework - INFO - Response Status Code: 200
