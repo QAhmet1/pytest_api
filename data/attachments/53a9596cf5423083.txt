@@ -1,0 +1,2 @@
+2026-03-29 07:02:17,994 - API_Test_Framework - INFO - Sending GET request to: https://jsonplaceholder.typicode.com/comments/1
+2026-03-29 07:02:18,018 - API_Test_Framework - INFO - Response Status Code: 200
