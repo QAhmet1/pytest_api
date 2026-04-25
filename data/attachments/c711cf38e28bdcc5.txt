@@ -1,0 +1,4 @@
+2026-04-25 07:14:48,136 - API_Test_Framework - INFO - Filtering albums for user: 1
+2026-04-25 07:14:48,136 - API_Test_Framework - INFO - Sending GET request to: https://jsonplaceholder.typicode.com/albums?userId=1
+2026-04-25 07:14:48,346 - API_Test_Framework - INFO - Response Status Code: 200
+2026-04-25 07:14:48,346 - API_Test_Framework - INFO - Successfully verified 10 albums for user 1
