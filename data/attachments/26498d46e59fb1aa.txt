@@ -1,3 +1,0 @@
-2026-05-07 08:32:17,370 - API_Test_Framework - INFO - Sending GET request to: https://jsonplaceholder.typicode.com/photos?albumId=1
-2026-05-07 08:32:17,392 - API_Test_Framework - INFO - Response Status Code: 200
-2026-05-07 08:32:17,393 - API_Test_Framework - INFO - Verified 50 photos belong to album 1
