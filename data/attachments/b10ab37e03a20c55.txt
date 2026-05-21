@@ -1,2 +1,0 @@
-2026-05-20 09:30:43,377 - API_Test_Framework - INFO - Sending POST request to: https://jsonplaceholder.typicode.com/comments
-2026-05-20 09:30:43,434 - API_Test_Framework - INFO - Response Status Code: 201
