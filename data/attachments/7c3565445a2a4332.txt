@@ -1,4 +1,0 @@
-2026-05-30 08:26:30,146 - API_Test_Framework - INFO - Verify that post creation flow works.
-2026-05-30 08:26:30,146 - API_Test_Framework - INFO - Sending POST request to: https://jsonplaceholder.typicode.com/posts
-2026-05-30 08:26:30,185 - API_Test_Framework - INFO - Response Status Code: 201
-2026-05-30 08:26:30,185 - API_Test_Framework - INFO - Post created with ID: 101
