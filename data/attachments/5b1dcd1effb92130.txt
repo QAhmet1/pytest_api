@@ -1,0 +1,4 @@
+2026-06-12 10:10:58,062 - API_Test_Framework - INFO - --- Starting Test: Create User Flow ---
+2026-06-12 10:10:58,063 - API_Test_Framework - INFO - Sending POST request to: https://jsonplaceholder.typicode.com/users
+2026-06-12 10:10:58,136 - API_Test_Framework - INFO - Response Status Code: 201
+2026-06-12 10:10:58,137 - API_Test_Framework - INFO - User created successfully with ID: 11
