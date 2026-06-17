@@ -1,3 +1,0 @@
-2026-06-16 11:08:09,344 - API_Test_Framework - INFO - Sending DELETE request to: https://jsonplaceholder.typicode.com/comments/1
-2026-06-16 11:08:09,373 - API_Test_Framework - INFO - Response Status Code: 200
-2026-06-16 11:08:09,373 - API_Test_Framework - INFO - Comment 1 deleted successfully.
