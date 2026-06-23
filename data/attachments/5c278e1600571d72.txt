@@ -1,0 +1,4 @@
+2026-06-23 09:36:16,026 - API_Test_Framework - INFO - Deleting post 1 ...
+2026-06-23 09:36:16,026 - API_Test_Framework - INFO - Sending DELETE request to: https://jsonplaceholder.typicode.com/posts/1
+2026-06-23 09:36:16,079 - API_Test_Framework - INFO - Response Status Code: 200
+2026-06-23 09:36:16,080 - API_Test_Framework - INFO - Deleted post 1 successfully.
