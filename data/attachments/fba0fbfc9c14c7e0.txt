@@ -1,2 +1,0 @@
-2026-07-02 08:53:38,221 - API_Test_Framework - INFO - Sending PATCH request to: https://jsonplaceholder.typicode.com/comments/1
-2026-07-02 08:53:38,233 - API_Test_Framework - INFO - Response Status Code: 200
