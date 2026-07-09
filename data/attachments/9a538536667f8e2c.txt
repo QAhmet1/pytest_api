@@ -1,0 +1,2 @@
+2026-07-09 09:36:32,649 - API_Test_Framework - INFO - Sending POST request to: https://jsonplaceholder.typicode.com/albums
+2026-07-09 09:36:32,707 - API_Test_Framework - INFO - Response Status Code: 201
