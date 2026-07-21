@@ -1,4 +1,0 @@
-2026-07-20 08:54:58,296 - API_Test_Framework - INFO - Filtering todos by status: completed=true
-2026-07-20 08:54:58,296 - API_Test_Framework - INFO - Sending GET request to: https://jsonplaceholder.typicode.com/todos?completed=true
-2026-07-20 08:54:58,305 - API_Test_Framework - INFO - Response Status Code: 200
-2026-07-20 08:54:58,305 - API_Test_Framework - INFO - Verified 90 items are all completed.
