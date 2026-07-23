@@ -1,3 +1,0 @@
-2026-07-22 08:26:07,373 - API_Test_Framework - INFO - Sending POST request to: https://jsonplaceholder.typicode.com/posts
-2026-07-22 08:26:07,392 - API_Test_Framework - INFO - Response Status Code: 201
-2026-07-22 08:26:07,392 - API_Test_Framework - INFO - Correctly received 201 for invalid user ID. NOTE: In real projects it returns 400
