@@ -1,3 +1,0 @@
-2026-08-23 06:37:38,425 - API_Test_Framework - INFO - Sending GET request to: https://jsonplaceholder.typicode.com/photos/1
-2026-08-23 06:37:38,575 - API_Test_Framework - INFO - Response Status Code: 200
-2026-08-23 06:37:38,576 - API_Test_Framework - INFO - Verified URL formats for photo 1
