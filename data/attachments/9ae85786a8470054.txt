@@ -1,3 +1,0 @@
-2026-09-04 10:38:06,078 - API_Test_Framework - INFO - Verify the content of specific posts using data-driven approach.
-2026-09-04 10:38:06,078 - API_Test_Framework - INFO - Sending GET request to: https://jsonplaceholder.typicode.com/posts/1
-2026-09-04 10:38:06,199 - API_Test_Framework - INFO - Response Status Code: 200
