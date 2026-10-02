@@ -1,3 +1,0 @@
-2026-10-01 12:28:55,522 - API_Test_Framework - INFO - Creating photo
-2026-10-01 12:28:55,522 - API_Test_Framework - INFO - Sending POST request to: https://jsonplaceholder.typicode.com/photos
-2026-10-01 12:28:55,543 - API_Test_Framework - INFO - Response Status Code: 201
