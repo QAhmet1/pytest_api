@@ -1,0 +1,2 @@
+2026-10-04 11:48:34,148 - API_Test_Framework - INFO - Sending GET request to: https://jsonplaceholder.typicode.com/photos/1
+2026-10-04 11:48:34,202 - API_Test_Framework - INFO - Response Status Code: 200
