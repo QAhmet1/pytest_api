@@ -1,2 +1,0 @@
-2026-10-12 14:28:52,056 - API_Test_Framework - INFO - Sending GET request to: https://jsonplaceholder.typicode.com/albums
-2026-10-12 14:28:52,126 - API_Test_Framework - INFO - Response Status Code: 200

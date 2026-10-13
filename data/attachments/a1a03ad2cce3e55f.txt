@@ -1,2 +1,0 @@
-2026-10-12 14:28:52,459 - API_Test_Framework - INFO - Sending PUT request to: https://jsonplaceholder.typicode.com/comments/1
-2026-10-12 14:28:52,507 - API_Test_Framework - INFO - Response Status Code: 200
